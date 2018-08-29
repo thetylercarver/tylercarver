@@ -7,6 +7,10 @@ h1 {
 body {
   backround-color: blue;
 }
+li {
+  display:inline;
+
+}
 .navbar {
-  background-image: url(https://goo.gl/images/nvuF2t);
+    background-image: url("https://goo.gl/images/BYB2uT");
 }
