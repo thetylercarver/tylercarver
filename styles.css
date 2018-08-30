@@ -9,8 +9,25 @@ body {
 }
 li {
   display:inline;
+  background-image: url(https://goo.gl/images/BYB2uT);
+
 
 }
-.navbar {
-    background-image: url("https://goo.gl/images/BYB2uT");
+.login {
+float: right;
+
+
+
+}
+
+.login a:active {
+  top: 5px;
+}
+.login a {
+  cursor: pointer;
+margin-right: 20px;
+padding: 3px 8px;
+border-radius: : 1px solid #204156;
+position: relative;
+background-color: green;
 }
